@@ -1,0 +1,25 @@
+sequence
+1.base
+2.variables
+3.operators
+4.get and post
+5.maths
+6.statements
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+What’s Missing?
+If you aim for professional PHP development or more advanced features, you may need to explore:
+
+Object-Oriented PHP (OOP): Classes, objects, inheritance, etc.
+Frameworks: Laravel, Symfony, or CodeIgniter for modern PHP development.
+API Development: Building RESTful APIs with PHP.
+File Handling: Reading/writing files, file uploads.
+Testing: PHPUnit for testing PHP code.
+Advanced Security: CSRF, SQL injection prevention, and using prepared statements
