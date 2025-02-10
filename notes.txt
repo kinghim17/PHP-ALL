@@ -5,15 +5,28 @@ sequence
 4.get and post
 5.maths
 6.statements
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+7.logical operators
+8.switch statements(check i am not doing)
+9.loops(for)
+10.loops(while)
+11.arrays
+12.associative arrays
+13.isset() & empty()
+14.radio buttons
+15.checkboxes
+16.functions
+17.string functions
+18.sanitize/validate input
+19.include()
+20.$_COOKIE
+21.$_SESSION
+22.$_SERVER
+23.password hashing
+24.PHP Connect to MySQL database
+25.PHPMyAdmin create a table
+26.PHP insert into MySQL database
+27.PHP query MySQL database
+28. PHP registration form project
 What’s Missing?
 If you aim for professional PHP development or more advanced features, you may need to explore:
 
@@ -23,3 +36,9 @@ API Development: Building RESTful APIs with PHP.
 File Handling: Reading/writing files, file uploads.
 Testing: PHPUnit for testing PHP code.
 Advanced Security: CSRF, SQL injection prevention, and using prepared statements
+
+
+// note
+there are two ways to connect over the my sql database 
+1: mysqli extension
+2: PDO(php data objects)- this is where the oops is needed 
